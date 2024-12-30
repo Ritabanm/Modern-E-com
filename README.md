@@ -33,4 +33,5 @@ Milestone 3: Cart and checkout functionality.
 
 Milestone 4: Deployment (even if it’s just the backend or frontend initially).
 
+Milestone 5: LLM Chatbot to assist shoppers. 
 
