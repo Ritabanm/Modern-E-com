@@ -26,7 +26,11 @@ Containerization: Docker.
 Project milestones:
 
 Milestone 1: Basic functionality (backend models + REST APIs + basic frontend with Next.js routing).
+
 Milestone 2: User authentication and CRUD for products.
+
 Milestone 3: Cart and checkout functionality.
+
 Milestone 4: Deployment (even if it’s just the backend or frontend initially).
+
 
